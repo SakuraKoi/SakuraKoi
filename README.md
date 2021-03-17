@@ -1,4 +1,4 @@
-### 诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
+## 诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
 
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/globe-16.svg"> 汉语 & 漢語 & English\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/mortar-board-16.svg"> current undergraduate\
