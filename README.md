@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/koishi_83779372.jpg" width='300px'>
+<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'>
 
 ### 诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
 
