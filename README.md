@@ -1,8 +1,6 @@
 <img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/koishi_83779372.jpg" width='300px'>
 
-### Hey, it's SakuraKoi here~
-
-诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
+### 诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
 
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/globe-24.svg"> 汉语 & 漢語 & English\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/mortar-board-24.svg"> current undergraduate\
