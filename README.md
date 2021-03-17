@@ -18,3 +18,6 @@
 > 活的开心就好啦~w
 
 > 人生啊~ 一切都是命运石之门的选择~
+> 
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg"> 天体のメソッド / Angel Beats / このはな綺譚 / ガラスの花と壊す世界 / 少女終末旅行 / 魔女の旅々
