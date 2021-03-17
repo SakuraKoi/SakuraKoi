@@ -4,9 +4,10 @@
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/mortar-board-16.svg"> current undergraduate\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-16.svg"> IDEA / WebStorm / Visual Studio / Notepad++\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-16.svg"> Java / C++ / C# / Typescript\
+<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'>
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/quote-16.svg"> Prefer Tab <s>Random</s>\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg"> Windows 10 LTSC / Manjaro KDE
-<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'>
+
 > 喜欢研究一些感兴趣的东西\
 > <s>所以挖了一堆坑到现在还没填</s>
 
