@@ -1,5 +1,3 @@
-<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'>
-
 ### 诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
 
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/globe-16.svg"> 汉语 & 漢語 & English\
@@ -8,7 +6,7 @@
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-16.svg"> Java / C++ / C# / Typescript\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/quote-16.svg"> Prefer Tab <s>Random</s>\
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-16.svg"> Windows 10 LTSC / Manjaro KDE
-
+<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'>
 > 喜欢研究一些感兴趣的东西\
 > <s>所以挖了一堆坑到现在还没填</s>
 
