@@ -21,4 +21,5 @@
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg"> 天体のメソッド / Angel Beats / このはな綺譚 / ガラスの花と壊す世界 / 少女終末旅行 / 魔女の旅々
 
-[![SakuraKoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true)]()
+[![SakuraKoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true&show_icons=true)]()\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact)]()
