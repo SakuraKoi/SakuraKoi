@@ -14,24 +14,28 @@
 > 人生啊~ 一切都是命运石之门的选择~
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg) Languages
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/java.png "Java")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/javascript.png "Javascript")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/android.png "Android")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/cpp.png "C++")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/csharp.png "C-Sharp")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/typescript.png "Typescript")</code>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
 
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label=)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=eeeeee&logo=C%2B%2B&logoColor=00599C&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=eeeeee&logo=JavaScript&logoColor=f7d138&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label=)
+![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label=)
+![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=eeeeee&logo=Typescript&logoColor=3178C6&label=)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=eeeeee&logo=CSharp&logoColor=239120&label=)
+
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg) IDEs / Editors
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/idea.png "Intellij IDEA")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/webstorm.png "WebStorm")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/visualstudio.png "Visual Studio")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/notepadplusplus.png "Notepad++")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/androidstudio.png "Android Studio")</code>
+![Intellij IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=Intellij%20IDEA&color=eeeeee&logo=IntellijIDEA&logoColor=000000&label=)
+![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=eeeeee&logo=Webstorm&logoColor=000000&label=)
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio&color=eeeeee&logo=VisualStudio&logoColor=5C2D91&label=)
+![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=3DDC84&label=)
+![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label=)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg) Operating Systems
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/windows10.png "Windows 10")</code>
-<code>![](https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/logos/manjaro.png "Manjaro KDE")</code>
+![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=Windows&logoColor=0078D6&label=)
+![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=eeeeee&logo=Manjaro&logoColor=35BF5C&label=)
+![CentOS](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=eeeeee&logo=CentOS&logoColor=262577&label=)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true&show_icons=true "SakuraKoi's GitHub stats")
 
