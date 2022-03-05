@@ -16,6 +16,7 @@
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg) Languages
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
+
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=eeeeee&logo=C%2B%2B&logoColor=00599C&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=eeeeee&logo=JavaScript&logoColor=f7d138&label=)
@@ -25,6 +26,7 @@
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=eeeeee&logo=CSharp&logoColor=239120&label=)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg) IDEs / Editors
+
 ![Intellij IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=Intellij%20IDEA&color=eeeeee&logo=IntellijIDEA&logoColor=000000&label=)
 ![WebStorm](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=eeeeee&logo=Webstorm&logoColor=000000&label=)
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio&color=eeeeee&logo=VisualStudio&logoColor=5C2D91&label=)
@@ -32,6 +34,7 @@
 ![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label=)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg) Operating Systems
+
 ![Windows 10](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=Windows&logoColor=0078D6&label=)
 ![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=eeeeee&logo=Manjaro&logoColor=35BF5C&label=)
 ![CentOS](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=eeeeee&logo=CentOS&logoColor=262577&label=)
