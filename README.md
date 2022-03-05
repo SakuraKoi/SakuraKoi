@@ -12,10 +12,11 @@
 > 活的开心就好啦~w
 
 > 人生啊~ 一切都是命运石之门的选择~
-
+---
+---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg) Languages
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label=)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=eeeeee&logo=C%2B%2B&logoColor=00599C&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=eeeeee&logo=JavaScript&logoColor=f7d138&label=)
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label=)
