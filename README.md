@@ -31,6 +31,7 @@
 ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio&color=eeeeee&logo=VisualStudio&logoColor=5C2D91&label=)
 ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=3DDC84&label=)
 ![Notepad++](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label=)
+![Typora](https://img.shields.io/static/v1?style=for-the-badge&message=Typora&color=eeeeee&logo=Markdown&logoColor=000000&label=)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg) Operating Systems
 
