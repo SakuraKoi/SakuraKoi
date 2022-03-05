@@ -22,6 +22,7 @@
 ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label=)
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=eeeeee&logo=Android&logoColor=3ddb85&label=)
 ![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=eeeeee&logo=Typescript&logoColor=3178C6&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=eeeeee&logo=Sass&logoColor=CC6699&label=)
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=eeeeee&logo=CSharp&logoColor=239120&label=)
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg) IDEs / Editors
