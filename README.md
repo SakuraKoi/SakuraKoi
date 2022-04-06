@@ -1,8 +1,10 @@
 ## 诶嘿， 这里是SakuraKooi (<ゝω·) ~☆
 
-<img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'>
+<!--img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'-->
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://music.163.com/song?id=1494001389)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
+
 > 喜欢研究一些感兴趣的东西\
 > <s>所以挖了一堆坑到现在还没填</s>
 
@@ -14,7 +16,6 @@
 > 人生啊~ 一切都是命运石之门的选择~
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label= "Java")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=eeeeee&logo=C%2B%2B&logoColor=00599C&label= "C++")
