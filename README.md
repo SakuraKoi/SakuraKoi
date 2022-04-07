@@ -3,7 +3,7 @@
 <!--img align="right" src="https://cdn.jsdelivr.net/gh/SakuraKoi/SakuraKoi/illust_87341761_20210317_181450.png" width='300px'-->
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://music.163.com/song?id=1494001389)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true&show_icons=true">
 
 > 喜欢研究一些感兴趣的东西\
 > <s>所以挖了一堆坑到现在还没填</s>
@@ -16,6 +16,7 @@
 > 人生啊~ 一切都是命运石之门的选择~
 ---
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label= "Java")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=eeeeee&logo=C%2B%2B&logoColor=00599C&label= "C++")
@@ -42,7 +43,6 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=eeeeee&logo=CentOS&logoColor=262577&label= "CentOS")
 
 
-![](https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true&show_icons=true "SakuraKoi's GitHub stats")
 
 ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg "❤ Bangumi") 天体のメソッド / Angel Beats / このはな綺譚 / ガラスの花と壊す世界 / 少女終末旅行 / 魔女の旅々\
 ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/star-16.svg "❤ Music") [花月夜](http://music.163.com/song?id=28928723) / [緋色月下、狂咲之絶](http://music.163.com/song?id=437250672) / [中华铄金娘](http://music.163.com/song?id=420401134) / [花月谣](http://music.163.com/song?id=1312663429) / [寄明月](http://music.163.com/song?id=511917431) / [風の唄](http://music.163.com/song?id=523035658)
