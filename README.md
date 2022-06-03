@@ -5,7 +5,7 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/comment-24.svg) [About me](http://music.163.com/song?id=1494001389)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sakurakoi&count_private=true&show_icons=true">
 
-![image](https://user-images.githubusercontent.com/19240677/164369979-76f29f17-7f17-4a85-873c-4dd383b59ad4.png)
+![](https://s2.loli.net/2022/06/03/oAc3dFmQUBpM4bJ.png)
 
 > 喜欢研究一些感兴趣的东西\
 > <s>所以挖了一堆坑到现在还没填</s>
