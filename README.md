@@ -20,7 +20,7 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/code-24.svg "Programming Languages") Programming Languages
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurakoi&layout=compact">
 
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=Java&logoColor=ED8B00&label= "Java")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=eeeeee&logo=openjdk&logoColor=ED8B00&label= "Java")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=eeeeee&logo=C%2B%2B&logoColor=00599C&label= "C++")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=eeeeee&logo=JavaScript&logoColor=f7d138&label= "JavaScript")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label= "Vue.js")
