@@ -41,10 +41,7 @@
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/device-desktop-24.svg "Operating Systems") Operating Systems
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2010&color=eeeeee&logo=Windows&logoColor=0078D6&label= "Windows 10")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=eeeeee&logo=Manjaro&logoColor=35BF5C&label= "Manjaro")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=eeeeee&logo=CentOS&logoColor=262577&label= "CentOS")
-
-
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Fedora&color=eeeeee&logo=Fedora&logoColor=262577&label= "Fedora")
 
 ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/heart-16.svg "❤ Bangumi") 天体のメソッド / Angel Beats / このはな綺譚 / ガラスの花と壊す世界 / 少女終末旅行 / 魔女の旅々\
 ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/star-16.svg "❤ Music") [花月夜](http://music.163.com/song?id=28928723) / [緋色月下、狂咲之絶](http://music.163.com/song?id=437250672) / [中华铄金娘](http://music.163.com/song?id=420401134) / [花月谣](http://music.163.com/song?id=1312663429) / [寄明月](http://music.163.com/song?id=511917431) / [風の唄](http://music.163.com/song?id=523035658)
