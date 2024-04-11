@@ -29,19 +29,20 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=C%23&color=eeeeee&logo=CSharp&logoColor=239120&label= "C#")
 
 ### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/stack-24.svg "Frameworks") Frameworks
-![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring%23&color=eeeeee&logo=Spring&logoColor=6DB33F&label= "Spring")
-![](https://img.shields.io/static/v1?style=for-the-badge&message=MyBatis%23&color=eeeeee&logo=Databricks&logoColor=cd0000&label= "MyBatis")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=eeeeee&logo=Spring&logoColor=6DB33F&label= "Spring")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=MyBatis&color=eeeeee&logo=Databricks&logoColor=cd0000&label= "MyBatis")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Vue%203&color=eeeeee&logo=Vue.js&logoColor=4FC08D&label= "Vue 3")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Workers&color=eeeeee&logo=Cloudflare&logoColor=F38020&label= "Workers")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Xposed&color=eeeeee&logo=android&logoColor=f48fb1&label= "Xposed")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Qt&color=eeeeee&logo=Qt&logoColor=41CD52&label= "Qt")
 
-### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "IDEs / Editors") IDEs / Editors
+### ![](https://cdn.jsdelivr.net/gh/primer/octicons/icons/rocket-24.svg "Tools") Tools
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Intellij%20IDEA&color=eeeeee&logo=IntellijIDEA&logoColor=000000&label= "Intellij IDEA")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=WebStorm&color=eeeeee&logo=Webstorm&logoColor=000000&label= "WebStorm")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Visual%20Studio&color=eeeeee&logo=VisualStudio&logoColor=5C2D91&label= "Visual Studio")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Android%20Studio&color=eeeeee&logo=AndroidStudio&logoColor=3DDC84&label= "Android Studio")
+![](https://img.shields.io/static/v1?style=for-the-badge&message=HexRays%20IDA&color=eeeeee&logo=pastebin&logoColor=3dbfbd&label= "HexRays IDA")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=eeeeee&logo=Notepad%2B%2B&logoColor=90E59A&label= "Notepad++")
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Typora&color=eeeeee&logo=Markdown&logoColor=000000&label= "Typora")
 
