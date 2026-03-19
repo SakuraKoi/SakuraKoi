@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">SakuraKooi's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 673, Total Commits  (last year) : 68, Total PRs: 7, Total Issues: 93, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 673, Total Commits  (last year) : 68, Total PRs: 7, Total Issues: 94, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 120.85651733845619;
+        stroke-dashoffset: 120.81305573022648;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >93</text>
+      >94</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >5</text>
     </g>
   </g>
     </svg>
